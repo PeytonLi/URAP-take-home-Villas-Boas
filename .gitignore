@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+
+tmp/
+output/
+research/
+artifacts/counterfactual_manifest.csv
+
+build_report.py
+convert_docx.ps1
+*.docx
+*.pdf
+.DS_Store
+Thumbs.db

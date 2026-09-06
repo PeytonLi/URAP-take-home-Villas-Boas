@@ -1,0 +1,12 @@
+{
+  "Base": {
+    "exact_change_rate": 0.7083333333333334,
+    "mean_tfidf_distance": 0.17279205045581697,
+    "mean_support_proxy": 0.46391847674742404
+  },
+  "Fine-tuned": {
+    "exact_change_rate": 0.4166666666666667,
+    "mean_tfidf_distance": 0.029417541769324842,
+    "mean_support_proxy": 0.7963259167303285
+  }
+}
